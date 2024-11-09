@@ -5,6 +5,7 @@ A lightweight program that automatically scrolls down to exploit a Fortnite glit
 ## How It Works
 
 This program simulates rapid scroll-down inputs, enabling continuous "jump" actions when the car jump button is bound to scrolling. With this setup, you can achieve impressive heights while in a vehicle!
+# MAKE SURE ITS KEYBIND IS SET TO SCROLL-WHEEL DOWN OR IT WILL NOT WORK!
 
 ## Requirements
 NET 8.0
